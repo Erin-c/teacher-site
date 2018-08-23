@@ -1,0 +1,8 @@
+exclude:
+  - README.md
+
+menu:
+  Syllabus: syllabus
+  Curriculum: curriculum
+  Tools: tools
+  Discuss: discuss

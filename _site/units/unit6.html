@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+
+<!-- adapted from https://github.com/poole/hyde -->
+
+<html lang="en-us">
+
+    <head>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+
+        <meta property="og:description" content="CS50 is Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming for students with a diversity of technological background and experience. CS50 for AP Computer Science Principles is an adaptation of CS50 specifically tailored to align with the AP Computer Science Principles curriculum framework. The course’s assignments, materials, and resources are all identical to the version of the course taught at the college-level, albeit adapted to suit a secondary school audience."/>
+        <meta property="og:image" content="http://www.harvard.edu/sites/default/files/default_images/harvard-social1200.jpg"/>
+        <meta property="og:title" content="CS50 AP"/>
+        <!-- <meta property="og:url" content="https://cs50.github.io/summer"/> -->
+
+        <link href="/favicon.ico" rel="icon"/>
+        <link href="/css/poole.css" rel="stylesheet"/>
+        <link href="/css/syntax.css" rel="stylesheet"/>
+        <link href="/css/hyde.css" rel="stylesheet"/>
+        <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface" rel="stylesheet"/>
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet"/>
+        <link href="/css/styles.css" rel="stylesheet"/>
+
+        <title>
+            
+                 &middot; CS50 AP
+            
+        </title>
+
+    </head>
+
+    <body class="theme-base-08">
+
+        <div class="sidebar">
+            <div class="container">
+                <div class="sidebar-about">
+                    <h1>
+                        <a href="http://localhost:4000">CS50 AP</a>
+                    </h1>
+                    <p class="lead">AP Computer Science Principles</p>
+                </div>
+
+                <nav class="sidebar-nav">
+
+                    
+                        
+                        <a class="sidebar-nav-item" href="/syllabus">Syllabus</a>
+                    
+                        
+                        <a class="sidebar-nav-item" href="/curriculum">Curriculum</a>
+                    
+                        
+                        <a class="sidebar-nav-item" href="/tools">Tools</a>
+                    
+                        
+                        <a class="sidebar-nav-item" href="/discuss">Discuss</a>
+                    
+
+                </nav>
+
+            </div>
+        </div>
+
+        <div class="content container">
+            <div class="page">
+                <h1 id="unit-6">Unit 6</h1>
+
+<h2 id="python">Python</h2>
+<p>At last, we venture out of the comfort zone that C has afforded us for many many months and we begin to transition to more modern programming languages, harnessing the power that decades of <em>“I wish I could…“</em> from past programmers have put into languages.</p>
+
+<p>Parsing or concatenating strings in C? Quite a challenge, if you recall! Parsing or concatenating strings in Python? Much less troublesome! But it’s not all great… unlike C, which is a compiled language, Python can be run through an interpreter, which means that it can suffer some performance degradation when run alongside similar programs in C. Fortunately Python, like many modern programming languages, counts C as an ancestor and so it is syntactically extremely similar; this should make the transition from using C to Python a little bit easier.</p>
+
+<ul>
+  <li>
+    <h3 id="lecture">Lecture</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/embed/n_8zxTH7SvA?start=15">Watch on Youtube</a></li>
+      <li><a href="https://video.cs50.net/2017/fall/lectures/8?t=0h0m15s">Watch on the CS50 Video Player</a></li>
+      <li><a href="http://cdn.cs50.net/2017/fall/lectures/8/lecture8-720p.mp4?download">Download Lecture</a></li>
+      <li><a href="https://docs.cs50.net/2017/fall/notes/8/lecture8.html">Lecture Notes</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="short">Short</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/embed/mgBpcQRDtl0">Python</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="notes">Notes</h3>
+    <ul>
+      <li><a href="/assets/pdfs/unit6/python.pdf">Python</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="supplementary-resources">Supplementary Resources</h3>
+    <ul>
+      <li>Python Software Foundation on <a href="https://www.python.org/">Python Documentation</a></li>
+      <li>LearnPython.org on <a href="https://www.learnpython.org/">Python</a></li>
+      <li>Rensselaer Polytechnic Institute on <a href="http://www.cogsci.rpi.edu/~destem/gamedev/python.pdf">Python basics</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="thought-questions">Thought Questions</h3>
+    <ul>
+      <li>What was the point of studying C for so long if we are now taking the time to learn to code in Python? Isn’t Python just “better” overall?</li>
+      <li>In what situations might you use Python over C or vice versa?</li>
+      <li>What does it mean to be an interpreted language versus a compiled language? What are the pros and cons of each?</li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="problem">Problem</h3>
+    <ul>
+      <li><a href="https://docs.cs50.net/2018/ap/problems/sentimental/sentimental.html">Sentimental</a></li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="python-for-web-programming">Python for Web Programming</h2>
+<p>In addition to Python’s power as a language operating on the command line, that power is only multiplied when we leverage what Python can do – permit the implementation of information exchange via the web.</p>
+
+<ul>
+  <li>
+    <h3 id="lecture-part-0">Lecture (Part 0)</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/embed/icOod04jYww?start=193&amp;end=2623">Watch on Youtube</a></li>
+      <li><a href="https://video.cs50.net/2017/fall/lectures/9?t=0h3m13s">Watch on the CS50 Video Player</a></li>
+      <li><a href="http://cdn.cs50.net/2017/fall/lectures/9/lecture9-720p.mp4?download">Download Lecture</a></li>
+      <li><a href="https://docs.cs50.net/2017/fall/notes/9/lecture9.html">Lecture Notes</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="lecture-part-1">Lecture (Part 1)</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/embed/icOod04jYww?start=2760&amp;end=4246">Watch on Youtube</a></li>
+      <li><a href="https://video.cs50.net/2017/fall/lectures/9?t=0h46m0s">Watch on the CS50 Video Player</a></li>
+      <li><a href="http://cdn.cs50.net/2017/fall/lectures/9/lecture9-720p.mp4?download">Download Lecture</a></li>
+      <li><a href="https://docs.cs50.net/2017/fall/notes/9/lecture9.html#frosh-ims">Lecture Notes</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="short-1">Short</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/embed/X0dwkDh8kwA">Flask</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="notes-1">Notes</h3>
+    <ul>
+      <li><a href="/assets/pdfs/unit6/python_for_web_programming.pdf">Python for Web Programming</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="thought-questions-1">Thought Questions</h3>
+    <ul>
+      <li>When would you want to use <code class="highlighter-rouge">GET</code>? When would you instead want to use <code class="highlighter-rouge">POST</code>? What is the use case for wanting to use <code class="highlighter-rouge">SESSION</code>?</li>
+      <li>Is <code class="highlighter-rouge">POST</code> more secure than <code class="highlighter-rouge">GET</code>? Is it secure enough?</li>
+      <li>How else might we be able to pass information between pages on our website?</li>
+      <li>Why is Python used for back end web programming? What other languages could you use?</li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="problem-1">Problem</h3>
+    <ul>
+      <li>Similarities
+        <ul>
+          <li><a href="http://docs.cs50.net/2018/ap/problems/similarities/less/similarities.html">less</a></li>
+          <li><a href="http://docs.cs50.net/2018/ap/problems/similarities/more/similarities.html">more</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="sql">SQL</h2>
+<p>SQL (the Structured Query Language) is a language that we can use to create, add to, select, modify, and delete information in connection with a database. By learning how to use SQL we can create a so-called “backend” for our websites, allowing us to store persistent user data (sort of like the notion of a <code class="highlighter-rouge">FILE*</code> in C) that we can access when necessary to improve the user experience on a page.</p>
+
+<ul>
+  <li>
+    <h3 id="lecture-1">Lecture</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/embed/MaqfxpCBMJI?start=308&amp;end=6227">Watch on Youtube</a></li>
+      <li><a href="https://video.cs50.net/2017/fall/lectures/10?t=0h5m8s">Watch on the CS50 Video Player</a></li>
+      <li><a href="http://cdn.cs50.net/2017/fall/lectures/10/lecture10-720p.mp4?download">Download Lecture</a></li>
+      <li><a href="https://docs.cs50.net/2017/fall/notes/10/lecture10.html#cookies">Lecture Notes</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="shorts">Shorts</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/embed/AywtnUjQ6X4">SQL</a></li>
+      <li><a href="https://www.youtube.com/embed/G58ujNjWEJY">SQL (Christopher)</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="notes-2">Notes</h3>
+    <ul>
+      <li><a href="/assets/pdfs/unit6/sql.pdf">SQL</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="supplementary-resources-1">Supplementary Resources</h3>
+    <ul>
+      <li>Oracle on <a href="http://dev.mysql.com/doc/refman/5.0/en">SQL Documentation</a></li>
+      <li>W3Schools on <a href="http://www.w3schools.com/sql/">SQL</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="thought-questions-2">Thought Questions</h3>
+    <ul>
+      <li>Open up  phpLiteAdmin in your IDE and try each of the basic operations (<code class="highlighter-rouge">SELECT</code>, <code class="highlighter-rouge">INSERT</code>, <code class="highlighter-rouge">UPDATE</code>, <code class="highlighter-rouge">DELETE</code>) using the graphical tabs. Then repeat all of the basic operations only using the SQL tab. Why is it advantageous that we can do this both ways?</li>
+      <li>How is the notion of a database different from file management with C?</li>
+      <li>What are some of the advantages of SQL over, say, a CSV file? What are some of the disadvantages?</li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="problem-2">Problem</h3>
+    <ul>
+      <li><a href="http://docs.cs50.net/2018/ap/problems/finance/finance.html">C$50 Finance</a></li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="mvc">MVC</h2>
+<p>MVC, or the Model-View-Controller paradigm, is a software design practice that separates code for a website into three parts: the model code, the view code, and the controller code. The model code deals with the data of the website, often performing operations that interact with a database. The controller code is the logic of the website: it contains code like loops and conditions. The view code is the aesthetic part of the website: it takes information provided by the controller and displays the page that the user ultimately sees when they visit the website.</p>
+
+<ul>
+  <li>
+    <h3 id="lecture-2">Lecture</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/embed/4qQW1uSoxRg?start=216&amp;end=284">Watch on Youtube</a></li>
+      <li><a href="https://video.cs50.net/2017/fall/lectures/11?t=0h3m36s">Watch on the CS50 Video Player</a></li>
+      <li><a href="http://cdn.cs50.net/2017/fall/lectures/11/lecture11-720p.mp4?download">Download Lecture</a></li>
+      <li><a href="https://docs.cs50.net/2017/fall/notes/11/lecture11.html#mvc">Lecture Notes</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="short-2">Short</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/embed/Fr4P6FkZUTE">MVC</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="notes-3">Notes</h3>
+    <ul>
+      <li><a href="/assets/pdfs/unit6/mvc.pdf">MVC</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="supplementary-resources-2">Supplementary Resources</h3>
+    <ul>
+      <li>Wikipedia on <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller">MVC</a></li>
+      <li>Microsoft on <a href="https://www.asp.net/mvc">ASP.NET MVC</a></li>
+      <li>Jeff Atwood on <a href="https://blog.codinghorror.com/understanding-model-view-controller/">Understanding Model-View-Control</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="thought-questions-3">Thought Questions</h3>
+    <ul>
+      <li>Why is MVC useful tool for developing websites?</li>
+      <li>What languages might be necessary in order to use MVC effectively?</li>
+      <li>Why might you want to break down components of a web application in this way?</li>
+      <li>How would you update a web application using MVC? Do all components have to be updated together?</li>
+      <li>Are there other architectures for web applications? How do they compare with MVC and what tradeoffs do they have?</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="javascript">JavaScript</h2>
+<p>Python gave us the opportunity to build dynamic websites, but JavaScript lets us take things even further, permitting client-side modifications to our web pages, making them more dynamic without requiring contact with a database or off-site server, which can greatly improve the user experience. In this module, you will get an introduction to the basic power of JavaScript and the Document Object Model (DOM), which JavaScript is able to manipulate to literally change the contents of a website, albeit temporarily, in response to user interactions.</p>
+
+<ul>
+  <li>
+    <h3 id="lecture-3">Lecture</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/embed/4qQW1uSoxRg?start=1093&amp;end=4012">Watch on Youtube</a></li>
+      <li><a href="https://video.cs50.net/2017/fall/lectures/11?t=0h18m13s">Watch on the CS50 Video Player</a></li>
+      <li><a href="http://cdn.cs50.net/2017/fall/lectures/11/lecture11-720p.mp4?download">Download Lecture</a></li>
+      <li><a href="https://docs.cs50.net/2017/fall/notes/11/lecture11.html#javascript-basics">Lecture Notes</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="shorts-1">Shorts</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/embed/Z93IaNfavZw">JavaScript</a></li>
+      <li><a href="https://www.youtube.com/embed/LKWJpgvfH3U">DOM</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="notes-4">Notes</h3>
+    <ul>
+      <li><a href="/assets/pdfs/unit6/javascript.pdf">JavaScript</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="supplementary-resources-3">Supplementary Resources</h3>
+    <ul>
+      <li>Mozilla on <a href="https://developer.mozilla.org/en/JavaScript/Guide">JavaScript Guide</a> and <a href="https://developer.mozilla.org/en/JavaScript/Reference">Reference</a></li>
+      <li>W3 Schools on <a href="http://www.w3schools.com/js/">JavaScript practice</a></li>
+      <li>Codecademy on <a href="https://www.codecademy.com/en/tracks/JavaScript">JavaScript track</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="thought-questions-4">Thought Questions</h3>
+    <ul>
+      <li>JavaScript and Python are both programming languages. In web development, when should you use JavaScript and when should you use Python?</li>
+      <li>Why is it important to separate client-side scripts (JavaScript) from server side scripts (Python)?</li>
+      <li>What is the purpose of JavaScript? How does the purpose of JavaScript impact its design?</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="ajax">Ajax</h2>
+<p>Ajax (which formerly stood for Asynchronous JavaScript and XML) is a web programming technique that lets us dynamically update the content of the web page. We can make snappier web pages that do not reload every time additional content is requested. Here, we see how this technique can be accomplished using JavaScript, in which an HTTP request is made asynchronously (in the background) to the server, and a callback function handles the JSON (JavaScript Object Notation) object that is returned.</p>
+
+<ul>
+  <li>
+    <h3 id="lecture-4">Lecture</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/embed/4qQW1uSoxRg?start=4012">Watch on Youtube</a></li>
+      <li><a href="https://video.cs50.net/2017/fall/lectures/11?t=1h6m52s">Watch on the CS50 Video Player</a></li>
+      <li><a href="http://cdn.cs50.net/2017/fall/lectures/11/lecture11-720p.mp4?download">Download Lecture</a></li>
+      <li><a href="https://docs.cs50.net/2017/fall/notes/11/lecture11.html#ajax">Lecture Notes</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="short-3">Short</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/embed/dQcBs4S-wEQ">Ajax</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="notes-5">Notes</h3>
+    <ul>
+      <li><a href="/assets/pdfs/unit6/ajax.pdf">Ajax</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="thought-questions-5">Thought Questions</h3>
+    <ul>
+      <li>Is Ajax essential? If so, why? If not, why do we have it?</li>
+      <li>What common websites seem to be using Ajax, and how can you tell?</li>
+      <li>In what cases would Ajax be useful? What wouldn’t work without Ajax?</li>
+      <li>How does Ajax to update web applications asynchronously? How is this different from what we have done in our previous applications?</li>
+      <li>What technologies does Ajax use? Would you consider Ajax its own technology?</li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="problem-3">Problem</h3>
+    <ul>
+      <li><a href="http://docs.cs50.net/2018/ap/problems/mashup/mashup.html">Mashup</a></li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="artificial-intelligence-and-machine-learning">Artificial Intelligence and Machine Learning</h2>
+<p>An intelligent machine is one that can analyze a set of circumstances and make a conclusion about those circumstances without contemporaneous direct human intervention. The definition of what makes a machine “intelligent”, however, varies over time. In this capstone section, we take a look at some of the current trends in the study of machine intelligence.</p>
+
+<ul>
+  <li>
+    <h3 id="lecture-5">Lecture</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/embed/dgt6IfEXgDk">Watch on Youtube</a></li>
+      <li><a href="https://video.cs50.net/2016/fall/lectures/7">Watch on the CS50 Video Player</a></li>
+      <li><a href="https://cdn.cs50.net/2016/fall/lectures/7/week7-720p.mp4?download">Download Lecture</a></li>
+      <li><a href="https://docs.cs50.net/2016/fall/notes/7/week7.html">Lecture Notes</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="shorts-2">Shorts</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/embed/uf6CSvhtbPU">Introduction to AI (Brian)</a></li>
+      <li><a href="https://www.youtube.com/embed/Eeg1DEeWUjA">Recommender Systems (Brian)</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="notes-6">Notes</h3>
+    <ul>
+      <li><a href="/assets/pdfs/unit6/artificial_intelligence_and_machine_learning.pdf">Artificial Intelligence and Machine Learning</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="supplementary-resources-4">Supplementary Resources</h3>
+    <ul>
+      <li>Want to have a conversation with the ELIZA chatbot? The original source code for ELIZA has been modified for C, and you can download this <a href="http://cdn.cs50.net/2015/fall/lectures/10/w/src10w/eliza.c">file</a> to your CS50 IDE and compile it to start your chat!</li>
+      <li>Take a look at this <a href="https://www.google.com/intl/en/about/main/gender-equality-films/">article</a> by Google on using machine learning to analyze female representation in movies.</li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="thought-questions-6">Thought Questions</h3>
+    <ul>
+      <li>How should ethical dilemmas be handled with artificial intelligence? For instance, if a self driving car can steer away from a group of 10 people to a group of 5, should it be programmed to?</li>
+      <li>Why do humans playing board games not have to consider as many possibilities as AIs do? How do they limit which possibilities they consider?</li>
+      <li>Are there limits to what artificial intelligence and machine learning technologies can do? What are those limits?</li>
+      <li>How are artificial intelligence and machine learning different?</li>
+      <li>How can artificial intelligence and machine learning affect the economy?</li>
+      <li>Can artificial intelligence and machine learning algorithms be biased? How is this possible and how does it manifest in real life?</li>
+      <li>Are artificial intelligence and machine learning algorithms always trustworthy?</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="virtual-and-augmented-reality">Virtual and Augmented Reality</h2>
+<p>Virtual and augmented reality has recently taken the world by storm. Virtual reality allows a user to jump into a three dimensional world so to speak to experience games, videos and other simulations in a new way. Augmented reality is similar in spirit to virtual reality, only that instead of taking you away from your surroundings completely, the effects, videos, or games are over layed to tie in your surroundings with the technology. In this section, you will explore the difference between the two and discover what advances can be made with this technology.</p>
+
+<ul>
+  <li>
+    <h3 id="lecture-6">Lecture</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/embed/AS7hpXLBI0c?start=400&amp;end=1882">Watch on Youtube</a></li>
+      <li><a href="https://video.cs50.net/2016/fall/lectures/11?t=6m40s">Watch on the CS50 Video Player</a></li>
+      <li><a href="https://cdn.cs50.net/2016/fall/lectures/11/week11-720p.mp4?download">Download Lecture</a></li>
+      <li><a href="http://docs.cs50.net/2016/fall/notes/11/week11.html">Lecture Notes</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="notes-7">Notes</h3>
+    <ul>
+      <li><a href="/assets/pdfs/unit6/virtual_and_augmented_reality.pdf">Virtual and Augmented Reality</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="supplementary-resources-5">Supplementary Resources</h3>
+    <ul>
+      <li>Wareable on <a href="https://www.wareable.com/vr/virtual-reality-vs-augmented-reality-which-is-the-future">Virtual reality versus augmented reality: Which is the future?</a></li>
+      <li>If you’re a fan of skiing (or just think AR is really cool), check out this video by Vocativ on <a href="https://www.youtube.com/watch?v=phIA0jdVABI">AR skiing goggles</a>.</li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="thought-questions-7">Thought Questions</h3>
+    <ul>
+      <li>What other fields could benefit from VR and AR?</li>
+      <li>Who could benefit from VR and AR?</li>
+      <li>What ethical issues might one encounter when working with VR and AR?</li>
+      <li>What kind of negative consequences could be associated with VR and AR?</li>
+      <li>How could some of today’s technologies be different after applying VR/AR technology?</li>
+    </ul>
+  </li>
+</ul>
+
+            </div>
+        </div>
+
+    </body>
+
+</html>
