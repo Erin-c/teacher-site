@@ -2,7 +2,7 @@ exclude:
   - README.md
 
 menu:
-  Syllabus: syllabus
   Curriculum: curriculum
+  Schedule: schedule
   Tools: tools
-  Discuss: discuss
+  Syllabus: syllabus

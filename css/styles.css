@@ -11,6 +11,26 @@
     font-size: 1.75rem;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.panel {
+    padding: 0 18px;
+    display: none;
+    background-color: rgba(0, 0, 0, 0)	;
+    overflow: hidden;
+}
+
+.accordion {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    outline: none;
+}
+
 dl, ol, ul {
     margin-bottom: 0;
 }

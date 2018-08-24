@@ -2,10 +2,18 @@
 layout: default
 ---
 
-## Description
+# Announcements
 
-CS50 is Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming for students less comfortable and more comfortable alike. CS50 for AP Computer Science Principles is an adaptation of CS50 for high schools that aligns with the AP Computer Science Principles curriculum framework. The course assumes no prior background of students, but it is rigorous by design and programming-centric, engaging students with fundamentals of computer science by way of hands-on programming projects. The computational-thinking skills that students ultimately acquire are broadly applicable. The curriculum includes all that teachers might need in order to teach CS50 in their own classrooms, including assessments, notes, slides, software, videos, and more.
+Your index.md file is where you can post course wide announcements!
+
+You can post videos like these:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GAB6Gm7pTTA" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tZxLMIk_SaY" frameborder="0" allowfullscreen></iframe>
+
+Or a <a href="https://cs50.harvard.edu">link</a> to your school's website
+
+You can even embed a class twitter feed like this:
+
+<a class="twitter-timeline" data-lang="en" data-width="300" data-height="700" data-theme="light" data-link-color="#A51C30" href="https://twitter.com/cs50?ref_src=twsrc%5Etfw">Tweets by cs50</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

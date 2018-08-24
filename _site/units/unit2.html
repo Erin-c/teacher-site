@@ -13,7 +13,6 @@
         <meta property="og:description" content="CS50 is Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming for students with a diversity of technological background and experience. CS50 for AP Computer Science Principles is an adaptation of CS50 specifically tailored to align with the AP Computer Science Principles curriculum framework. The course’s assignments, materials, and resources are all identical to the version of the course taught at the college-level, albeit adapted to suit a secondary school audience."/>
         <meta property="og:image" content="http://www.harvard.edu/sites/default/files/default_images/harvard-social1200.jpg"/>
         <meta property="og:title" content="CS50 AP"/>
-        <!-- <meta property="og:url" content="https://cs50.github.io/summer"/> -->
 
         <link href="/favicon.ico" rel="icon"/>
         <link href="/css/poole.css" rel="stylesheet"/>
@@ -21,7 +20,10 @@
         <link href="/css/hyde.css" rel="stylesheet"/>
         <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface" rel="stylesheet"/>
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet"/>
+        
         <link href="/css/styles.css" rel="stylesheet"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
 
         <title>
             
@@ -31,31 +33,42 @@
 
     </head>
 
-    <body class="theme-base-08">
+    <body class="theme">
 
         <div class="sidebar">
             <div class="container">
                 <div class="sidebar-about">
                     <h1>
+                        <!-- school logo image goes here -->
+                        <img src="/assets/images/school_logo.png" width="75%" class="center">
+                        <!-- school school logo image goes here -->
                         <a href="http://localhost:4000">CS50 AP</a>
                     </h1>
-                    <p class="lead">AP Computer Science Principles</p>
+                    <!-- school name goes here -->
+                    <p class="lead">AP Computer Science Principles at Sample School</p>
+                    <!-- school name goes here -->
                 </div>
 
                 <nav class="sidebar-nav">
+                  
+                  <a class="sidebar-nav-item accordion">Classes</a>
+                    <div class="panel">
+                      <li><a href="/period1"> CS50 AP Period 1</a></li>
+                      <li><a href="/period2"> CS50 AP Period 2</a></li>
+                    </div>
 
-                    
-                        
-                        <a class="sidebar-nav-item" href="/syllabus">Syllabus</a>
                     
                         
                         <a class="sidebar-nav-item" href="/curriculum">Curriculum</a>
                     
                         
+                        <a class="sidebar-nav-item" href="/schedule">Schedule</a>
+                    
+                        
                         <a class="sidebar-nav-item" href="/tools">Tools</a>
                     
                         
-                        <a class="sidebar-nav-item" href="/discuss">Discuss</a>
+                        <a class="sidebar-nav-item" href="/syllabus">Syllabus</a>
                     
 
                 </nav>
@@ -449,7 +462,23 @@
 
             </div>
         </div>
+        <script>
+          var acc = document.getElementsByClassName("accordion");
+          var i;
 
+          for (i = 0; i < acc.length; i++) {
+              acc[i].addEventListener("click", function() {
+                  this.classList.toggle("active");
+                  var panel = this.nextElementSibling;
+                  if (panel.style.display === "block") {
+                      panel.style.display = "none";
+                  } else {
+                      panel.style.display = "block";
+                  }
+              });
+          }
+          </script>
+          
     </body>
 
 </html>
