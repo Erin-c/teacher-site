@@ -237,3 +237,7 @@ Virtual and augmented reality has recently taken the world by storm. Virtual rea
   - What ethical issues might one encounter when working with VR and AR?
   - What kind of negative consequences could be associated with VR and AR?
   - How could some of today's technologies be different after applying VR/AR technology?
+
+  <div>
+  {% toggles %}
+  </div>

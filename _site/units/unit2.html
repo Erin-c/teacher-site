@@ -456,9 +456,22 @@
       <li><a href="https://docs.cs50.net/2018/ap/problems/crack/crack.html">Crack</a></li>
       <li><a href="https://docs.cs50.net/2018/ap/problems/vigenere/vigenere.html">Vigenére</a></li>
     </ul>
+
+    <div>
+<script>
+$( document ).ready(function(){ 
+ $('h2').addClass('ui-closed').css('cursor', 'pointer');
+ $('h2').nextUntil('h2').hide();
+ $('h2').click(function() {
+    $(this).nextUntil('h2').toggle(100);
+    $(this).toggleClass('ui-closed ui-open');
+  });
+});
+</script>
+
+</div>
   </li>
 </ul>
-
 
             </div>
         </div>

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Unit 0
+# [Unit 0](/curriculum)
 
 ## Computers and Computing
 Computers are everywhere, but it's not just desktops and laptops anymore. Now we have tablets, cell phones, watches, and so much more that perform the same functions. Consider what makes a computer a computer, thinking about the common bonds that unify all those things which we call "computers," and also perhaps start to think outside the box a bit, considering whether some devices are indeed computers, but not in the traditional sense.
@@ -183,4 +183,6 @@ In this section, you will not yet be implementing any specific type of algorithm
 - ### Problem
   - [Everyday Algorithms](https://docs.cs50.net/2018/ap/problems/algorithms/algorithms.html)
 
+<div>
 {% toggles %}
+</div>

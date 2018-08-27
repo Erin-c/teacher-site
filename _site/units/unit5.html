@@ -540,6 +540,20 @@
     <ul>
       <li><a href="http://docs.cs50.net/2018/ap/problems/unit5/unit5.html">&lt;/Unit5&gt;</a></li>
     </ul>
+
+    <div>
+<script>
+$( document ).ready(function(){ 
+ $('h2').addClass('ui-closed').css('cursor', 'pointer');
+ $('h2').nextUntil('h2').hide();
+ $('h2').click(function() {
+    $(this).nextUntil('h2').toggle(100);
+    $(this).toggleClass('ui-closed ui-open');
+  });
+});
+</script>
+
+</div>
   </li>
 </ul>
 

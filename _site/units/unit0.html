@@ -78,7 +78,7 @@
 
         <div class="content container">
             <div class="page">
-                <h1 id="unit-0">Unit 0</h1>
+                <h1 id="unit-0"><a href="/curriculum">Unit 0</a></h1>
 
 <h2 id="computers-and-computing">Computers and Computing</h2>
 <p>Computers are everywhere, but it’s not just desktops and laptops anymore. Now we have tablets, cell phones, watches, and so much more that perform the same functions. Consider what makes a computer a computer, thinking about the common bonds that unify all those things which we call “computers,” and also perhaps start to think outside the box a bit, considering whether some devices are indeed computers, but not in the traditional sense.</p>
@@ -370,25 +370,19 @@ Carey Holzman on <a href="https://www.youtube.com/embed/O4ykrNhI5xk">HDD vs SSD 
   </li>
 </ul>
 
+<div>
 <script>
-    $(function() {
-        if ($('h2').length > 1) {
-            $('h2').first().prepend($('<i aria-hidden="true" class="fas fa-chevron-down fa-fw"></i>'));
-            $('h2').first().css('cursor', 'pointer');
-        }
-	    
-        $('h2').slice(1).each(function(index) {
-            $(this).prepend($('<i aria-hidden="true" style="float: right" class="far fa-plus-square fa-fw"></i>'));
-            $(this).nextUntil('h2').hide();
-            $(this).click(function() {
-                 $(this).children('i').removeClass('fa-chevron-right').addClass('fa-chevron-down');
-                 $(this).nextUntil('h2').show();
-		});
-            $(this).css('cursor', 'pointer');
-	    });
-	});
- </script>
+  $( document ).ready(function(){ 
+   $('h2').addClass('ui-closed').css('cursor', 'pointer');
+   $('h2').nextUntil('h2').hide();
+   $('h2').click(function() {
+      $(this).nextUntil('h2').toggle(100);
+      $(this).toggleClass('ui-closed ui-open');
+    });
+  });
+</script>
 
+</div>
 
             </div>
         </div>

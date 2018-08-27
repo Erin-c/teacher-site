@@ -525,6 +525,20 @@
       <li>What additional advantages does Git have over some of the other models, particular as it might pertain to two people working on the same project at the same time?</li>
       <li>What are the benefits of having multiple saved versions of the same code? How can this make debugging more effective?</li>
     </ul>
+
+    <div>
+<script>
+$( document ).ready(function(){ 
+ $('h2').addClass('ui-closed').css('cursor', 'pointer');
+ $('h2').nextUntil('h2').hide();
+ $('h2').click(function() {
+    $(this).nextUntil('h2').toggle(100);
+    $(this).toggleClass('ui-closed ui-open');
+  });
+});
+</script>
+
+</div>
   </li>
 </ul>
 

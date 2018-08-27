@@ -31,6 +31,16 @@
     outline: none;
 }
 
+.ui-closed:before {
+  font-family: monospace;
+  content: "+ ";
+}
+
+.ui-open:before {
+  font-family: monospace;
+  content: "- ";
+}
+
 dl, ol, ul {
     margin-bottom: 0;
 }
