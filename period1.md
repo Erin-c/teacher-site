@@ -183,3 +183,7 @@ In this section, you will not yet be implementing any specific type of algorithm
 - ### Problem
   - [Everyday Algorithms](https://docs.cs50.net/2018/ap/problems/algorithms/algorithms.html)
 
+<div>
+{% toggles %}
+</div>
+

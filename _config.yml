@@ -1,8 +1,5 @@
 exclude:
   - README.md
-  
-plugins:
-   - Toggles
 
 menu:
   Curriculum: curriculum
