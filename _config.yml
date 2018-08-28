@@ -1,8 +1,4 @@
-exclude:
-  - README.md
+plugins:
+  - jekyll-remote-theme
 
-menu:
-  Curriculum: curriculum
-  Schedule: schedule
-  Tools: tools
-  Syllabus: syllabus
+remote_theme: cs50/jekyll-theme-cs50

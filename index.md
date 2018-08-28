@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Announcements
 
 Your index.md file is where you can post course wide announcements!
