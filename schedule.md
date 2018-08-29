@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Schedule
 
 You can post deadlines and important dates for your class here

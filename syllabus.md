@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Syllabus
 
 ###### [Download the full syllabus as a PDF with mappings to the AP CSP Framework's Learning Objectives](https://dl.dropboxusercontent.com/s/f2srub4nxf2dx6c/Syllabus%202018-19.pdf?dl=0)
@@ -38,17 +34,17 @@ ISBN 0-789-75198-4
 * _Programming in C_, Fourth Edition  
 Stephen G. Kochan  
 Pearson Education, 2015  
-ISBN 0-321-77641-0  
-
+ISBN 0-321-77641-0
 <br>
+
 The book below is recommended for those interested in understanding how their own computers work for personal edification.
 
 * _How Computers Work_, Ninth Edition  
 Ron White  
 Que Publishing, 2008  
-ISBN 0-7897-3613-6  
-
+ISBN 0-7897-3613-6
 <br>
+
 This last book below is recommended for aspiring hackers, those interested in programming techniques and low-level optimization of code for applications beyond the scope of this course.
 
 * _Hacker's Delight_, Second Edition  
@@ -66,8 +62,8 @@ Consistent with the AP Computer Science Principles curriculum framework, the cou
 5.	Programming
 6.	The Internet
 7.	Global Impact
-
 <br>
+
 And the six computational thinking practices are:
 
 * P1. Connecting Computing

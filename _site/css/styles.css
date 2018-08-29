@@ -48,3 +48,7 @@ dl, ol, ul {
 th {
     text-align: left;
 }
+
+li:last-child {
+  margin-bottom: 32px;
+}
