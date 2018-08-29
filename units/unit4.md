@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Unit 4
 
 ## Principles of Good Design

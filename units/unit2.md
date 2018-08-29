@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Unit 2
 
 ## Compiling

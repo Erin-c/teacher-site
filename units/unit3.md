@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Unit 3
 
 ## Linear Search
