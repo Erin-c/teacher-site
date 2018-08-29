@@ -10,7 +10,7 @@
 
 ***
 
-* [**Units**](/units)
+* [**Units**]({{ "/units" | relative_url }})
 * [Syllabus]({{ "/syllabus" | relative_url }})
 * [Schedule]({{ "/schedule" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
