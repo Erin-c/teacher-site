@@ -236,6 +236,3 @@ Bugs. Ugh. Nobody likes them but every programmer will surely encounter them, re
   - [Crack](https://docs.cs50.net/2018/ap/problems/crack/crack.html)
   - [Vigenére](https://docs.cs50.net/2018/ap/problems/vigenere/vigenere.html)
 
-  <div>
-  {% toggles %}
-  </div>

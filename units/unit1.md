@@ -225,6 +225,4 @@ Loops are how we as programmers do the same thing over and over. Instead of copy
     - [more](https://docs.cs50.net/2018/ap/problems/mario/more/mario.html)
   - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html)
 
-  <div>
-  {% toggles %}
-  </div>
+

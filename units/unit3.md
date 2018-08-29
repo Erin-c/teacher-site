@@ -227,7 +227,3 @@ Computer programs can be used to create models and simulations, to test hypothes
 
 - ### Problems
   - [Simulate!](http://docs.cs50.net/2018/ap/problems/simulate/simulate.html)
-
-  <div>
-  {% toggles %}
-  </div>

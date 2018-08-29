@@ -276,6 +276,3 @@ Collaboration is so important in the field of computer science; as a programmer,
   - What additional advantages does Git have over some of the other models, particular as it might pertain to two people working on the same project at the same time? 
   - What are the benefits of having multiple saved versions of the same code? How can this make debugging more effective?
 
-  <div>
-  {% toggles %}
-  </div>

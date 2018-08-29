@@ -288,6 +288,3 @@ CSS, Cascading Style Sheets, is used to style web pages. It is capable of manipu
 - ### Problem
   - [</Unit5>](http://docs.cs50.net/2018/ap/problems/unit5/unit5.html)
 
-  <div>
-  {% toggles %}
-  </div>
