@@ -1,22 +1,13 @@
 # CS50 Tools
 
-<iframe title="Tools" src="assets/pdfs/tools.pdf" width="838" height="1130" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+<iframe title="Tools" src="/assets/pdfs/tools.pdf" width="838" height="1130" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
 
 ---
-
-## CS50 IDE 
-
-<https://cs50.io>
 
 ## CS50 Sandbox
 
 Temporary programming environments for students and teachers
 <https://sandbox.cs50.io/>
-
-## Reference50
-
-Easy to understand descriptions of common library functions in C
-<https://reference.cs50.net/>
 
 ## Command-Line Tools
 
