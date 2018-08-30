@@ -15,15 +15,15 @@ In addition to having operators that perform basic mathematical operations like 
   - [Operators]({{"/assets/pdfs/unit1/operators.pdf" | relative_url }})
 
 - ### Supplementary Resources
-* Tutorials Point on [C operators](http://www.tutorialspoint.com/cprogramming/c_operators.htm)
-* Programiz on [C Programming](https://www.programiz.com/c-programming/c-operators)
+  - Tutorials Point on [C operators](http://www.tutorialspoint.com/cprogramming/c_operators.htm)
+  - Programiz on [C Programming](https://www.programiz.com/c-programming/c-operators)
 
 - ### Thought Questions
-* How do operators in C compare to operators in math? Do they always translate to the same thing?
-* Why is there a difference between integer division and float division?
-* Why is modulo (`%`) a built in operation?
-* What are some problems where modulo might come in handy? What about integer division?
-* What are `x++`, `x--`, `+=`, and `*=` shorthand for?
+  - How do operators in C compare to operators in math? Do they always translate to the same thing?
+  - Why is there a difference between integer division and float division?
+  - Why is modulo (`%`) a built in operation?
+  - What are some problems where modulo might come in handy? What about integer division?
+  - What are `x++`, `x--`, `+=`, and `*=` shorthand for?
 
 - ### Problem
   - [Fahrenheit](https://docs.cs50.net/2018/ap/problems/fahrenheit/fahrenheit.html)
