@@ -32,7 +32,6 @@ One of the most common types of information that computers process is text. To t
   - What are the impacts of ASCII and Unicode on the usage of technology internationally?
   - Think about the ASCII table, in particular some of the patterns in it. How might some of those patterns be helpful?
   - Why do we need ASCII at all? What problems might we face if we didn't have it?
+  - In most of our messages, are we using all of the characters in the ASCII table? What does this mean in terms of _optimization_?  
   - ASCII was written as a 7-bit encoding scheme, but bytes are 8 bits. Why do you think that is? What do you think that might mean about other historical standards?
     - Note: A byte was not actually standardized as 8 bits until the 1990s! ASCII was written in 1963.
-  - In most of our messages, are we using all of the characters in the ASCII table? What does this mean in terms of _optimization_?
-  
