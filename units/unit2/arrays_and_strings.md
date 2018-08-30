@@ -19,7 +19,7 @@ Strings are a special case of arrays -- in C, a string is an array of characters
 - ### Notes
   - [Arrays and Strings]({{"/assets/pdfs/unit2/arrays_and_strings.pdf" | relative_url }})
 
-- ### Though Questions Overview]
+- ### Thought Questions
   - Is there ever a situation where it might be better to have 2, 3, or n separate variables instead of having a 2-, 3-, or n-element array?
   - Because we have to specify the size of an array before we start using it, how might we respond to needing extra elements?
   - What if we need to insert an element between two other elements we've already defined in our array? 
