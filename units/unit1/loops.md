@@ -26,9 +26,10 @@ Loops are how we as programmers do the same thing over and over. Instead of copy
 - ### Problems
   - [Pennies](https://docs.cs50.net/2018/ap/problems/pennies/pennies.html)
   - [ISBN](https://docs.cs50.net/2018/ap/problems/isbn/isbn.html)
+  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html)
   - Mario
     - [less](https://docs.cs50.net/2018/ap/problems/mario/less/mario.html)
     - [more](https://docs.cs50.net/2018/ap/problems/mario/more/mario.html)
-  - [Credit](https://docs.cs50.net/2018/ap/problems/credit/credit.html)
+  
 
 

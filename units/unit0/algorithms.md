@@ -11,7 +11,7 @@ In this section, you will not yet be implementing any specific type of algorithm
   - [Lecture Notes](https://docs.cs50.net/2017/fall/notes/0/lecture0.html#algorithms)
 
 - ### Notes
-  - [Algorithms](/assets/pdfs/unit0/algorithms.pdf)
+  - [Algorithms]({{"/assets/pdfs/unit0/algorithms.pdf" | relative_url }})
 
 - ### Supplementary Resources
   - TED-Ed on [What's an Algorithm?](https://www.youtube.com/embed/6hfOvs8pY1k)
