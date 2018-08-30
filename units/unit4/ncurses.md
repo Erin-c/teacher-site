@@ -15,7 +15,7 @@ First, take a look at the video below, demonstrating how to write "Hello world" 
   - Code for the above program can be found [here](https://github.com/ranzuh/snake) on GitHub.
 
 - ### Slides
-  - <iframe title="ncurses" src="/assets/pdfs/ncurses_slides.pdf" width="838" height="842" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+  - <iframe title="ncurses" src="{{'/assets/pdfs/ncurses-slides.pdf' | relative_url }}" width="838" height="842" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
 
 - ### Notes
   - [ncurses]({{"/assets/pdfs/unit4/ncurses.pdf" | relative_url }})
