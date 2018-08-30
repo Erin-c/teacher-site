@@ -12,7 +12,7 @@ Scratch is a programming language designed to help introduce computer science pr
   - [Scratch (Allison)](https://www.youtube.com/embed/52JoFF4HMA4)
 
 - ### Notes
-  - [Scratch](/assets/pdfs/unit1/scratch.pdf)
+  - [Scratch]({{"/assets/pdfs/unit1/scratch.pdf" | relative_url }})
 
 - ### Problem
   - [Scratch](http://docs.cs50.net/2018/ap/problems/scratch/scratch.html)

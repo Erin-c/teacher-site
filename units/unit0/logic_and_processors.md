@@ -10,8 +10,8 @@ In this section, we'll talk about transistors, Boolean logic, and how they come 
   - Crash Course on [CPUs](https://www.youtube.com/embed/FZGugFqdr60)
 
 - ### Notes
-  - [Transistors and Logic](/assets/pdfs/unit0/transistors_and_logic.pdf)
-  - [CPU and SoC](/assets/pdfs/unit0/cpu_and_soc.pdf)
+  - [Transistors and Logic]({{"/assets/pdfs/unit0/transistors_and_logic.pdf" | relative_url }})
+  - [CPU and SoC]({{"/assets/pdfs/unit0/cpu_and_soc.pdf" | relative_url }})
 
 - ### Supplementary Resources
   - Numberphile on [Domino Addition](https://www.youtube.com/embed/lNuPy-r1GuQ)

@@ -19,7 +19,7 @@ In this section, you will consider a different approach to sorting that doesn't 
   - [Insertion Sort (Tommy)](https://www.youtube.com/embed/DFG-XuyPYUQ)
 
 - ### Notes
-  - [Insertion Sort](/assets/pdfs/unit3/insertion_sort.pdf)
+  - [Insertion Sort]({{"/assets/pdfs/unit3/insertion_sort.pdf" | relative_url }})
   
 - ### Supplementary Resources
   - Toptal on [Interactive Algorithm Animations](https://www.toptal.com/developers/sorting-algorithms)

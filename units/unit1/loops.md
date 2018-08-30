@@ -13,7 +13,7 @@ Loops are how we as programmers do the same thing over and over. Instead of copy
   - [Loops (Tommy)](https://www.youtube.com/embed/HHmiHx7GGLE)
 
 - ### Notes
-  - [Loops](/assets/pdfs/unit1/loops.pdf)
+  - [Loops]({{"/assets/pdfs/unit1/loops.pdf" | relative_url }})
 
 - ### Supplementary Resources
   - Alex Allain on [Loops in C tutorial](https://www.cprogramming.com/tutorial/c/lesson3.html)

@@ -24,7 +24,7 @@ Libraries are how we as programmers share important information and work with on
   - [Libraries (Nate)](https://www.youtube.com/embed/ED7QtgXDShY)
 
 - ### Notes
-  - [Libraries](/assets/pdfs/unit2/libraries.pdf)
+  - [Libraries]({{"/assets/pdfs/unit2/libraries.pdf" | relative_url }})
 
 - ### Thought Questions
   - What are some of the advantages of writing libraries?

@@ -13,7 +13,7 @@ The subject of computational complexity (also known as time complexity and/or sp
   - [Asymptotic Notation (Jackson)](https://www.youtube.com/embed/iOq5kSKqeR4)
 
 - ### Notes
-  - [Computational Complexity](/assets/pdfs/unit3/computational_complexity.pdf)
+  - [Computational Complexity]({{"/assets/pdfs/unit3/computational_complexity.pdf" | relative_url }})
 
 - ### Thought Questions
   - In what ways can we measure the resources that our programs consume?

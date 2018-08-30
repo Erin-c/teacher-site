@@ -22,7 +22,7 @@ You can also enable your programs to use the command line. Up to this point in t
   - [Command-Line Interaction (Chris)](https://www.youtube.com/embed/X8PmYwnbLKM)
 
 - ### Notes
-  - [Command-Line Interaction](/assets/pdfs/unit2/command-line_interaction.pdf)
+  - [Command-Line Interaction]({{"/assets/pdfs/unit2/command-line_interaction.pdf" | relative_url }})
 
 - ### Thought Questions
   - What is the relationship between argc and argv? Specifically, what does argc tell us about how far we can iterate through argv?

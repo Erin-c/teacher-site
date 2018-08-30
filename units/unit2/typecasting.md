@@ -12,7 +12,7 @@ Sometimes you create a variable of one data type but actually need to (for one r
   - [Typecasting (Jordan)](https://www.youtube.com/embed/4XTSxFSs3kI)
 
 - ### Notes
-  - [Typecasting](/assets/pdfs/unit2/typecasting.pdf)
+  - [Typecasting]({{"/assets/pdfs/unit2/typecasting.pdf" | relative_url }})
 
 - ### Thought Questions
   - Why is it perhaps "better" to typecast a variable instead of creating a second variable of the correct type?

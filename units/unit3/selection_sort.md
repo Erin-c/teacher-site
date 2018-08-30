@@ -19,7 +19,7 @@ In this section, we consider an approach to sorting that minimizes the number of
   - [Selection Sort (Tommy)](https://www.youtube.com/embed/f8hXR_Hvybo)
 
 - ### Notes
-  - [Selection Sort](/assets/pdfs/unit3/selection_sort.pdf)
+  - [Selection Sort]({{"/assets/pdfs/unit3/selection_sort.pdf" | relative_url }})
 
 - ### Supplementary Resources
   - Khan Academy on [Interactive Sorting](https://www.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/a/sorting)

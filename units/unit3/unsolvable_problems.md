@@ -10,7 +10,7 @@ In this section, you will consider unsolvable problems in computer science, incl
   - It turns out, many practical problems reduce to the halting problem or other unsolvable problems. However, rather than giving up on these problems entirely, computer scientists use guidelines, or heuristics, to reach good-enough solutions. Check out this page by 101 Computing on [heuristic approaches to problems](http://www.101computing.net/heuristic-approaches-to-problem-solving/) and this thread by Quora on [different ways of thinking about heuristics](https://www.quora.com/What-is-the-heuristic-approach-algorithm-in-computer-science).
 
 - ### Notes
-  - [Unsolvable Problems](/assets/pdfs/unit3/unsolvable_problems.pdf)
+  - [Unsolvable Problems]({{"/assets/pdfs/unit3/unsolvable_problems.pdf" | relative_url }})
 
 - ### Thought Questions
   - Can you come up with other questions that a computer would never be able to answer?

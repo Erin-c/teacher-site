@@ -19,7 +19,7 @@ Conditional branching using Boolean expressions are how we as programmers make d
   - [Boolean Values](https://www.youtube.com/embed/M058skV1iL0)
 
 - ### Notes
-  - [Boolean Expressions](/assets/pdfs/unit1/boolean_expressions.pdf)
+  - [Boolean Expressions]({{"/assets/pdfs/unit1/boolean_expressions.pdf" | relative_url }})
 
 - ### Thought Questions
   - What is a good sample use case for if-else? How about switch? When would you want to use ?:?

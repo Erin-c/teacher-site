@@ -18,7 +18,7 @@ In this section, you will learn about the primitive data types built-in to C, th
   - [Data Types](https://www.youtube.com/embed/Fc9htmvVZ9U)
 
 - ### Notes
-  - [Data Types](/assets/pdfs/unit1/data_types.pdf)
+  - [Data Types]({{"/assets/pdfs/unit1/data_types.pdf" | relative_url }})
 
 - ### Supplementary Resources
   - David Malan on [Modern Marvels](https://www.youtube.com/embed/ecWNflDzFfA?start=2527&end=2663)

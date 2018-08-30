@@ -13,7 +13,7 @@ Linear search is the most basic algorithm for searching that you will encounter 
   - [Linear Search (Patrick)](https://www.youtube.com/embed/CX2CYIJLwfg)
 
 - ### Notes
-  - [Linear Search](/assets/pdfs/unit3/linear_search.pdf)
+  - [Linear Search]({{"/assets/pdfs/unit3/linear_search.pdf" | relative_url }})
 
 - ### Thought Questions
   -  When is it advantageous to use linear search? When is it not-so-advantageous?

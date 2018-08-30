@@ -13,7 +13,7 @@ Functions are an amazing tool that we can use to organize, simplify, and reuse t
   - [Variables and Scope](https://www.youtube.com/embed/GiFbdVGjF9I)
 
 - ### Notes
-  - [Functions](/assets/pdfs/unit2/functions.pdf)
+  - [Functions]({{"/assets/pdfs/unit2/functions.pdf" | relative_url }})
 
 - ### Thought Questions
   - Are functions necessary? Are functions optimal?

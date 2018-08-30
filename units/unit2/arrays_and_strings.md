@@ -17,7 +17,7 @@ Strings are a special case of arrays -- in C, a string is an array of characters
   - [Strings (Chris)](https://www.youtube.com/embed/z3j-gK1u6Kg)
 
 - ### Notes
-  - [Arrays and Strings](/assets/pdfs/unit2/arrays_and_strings.pdf)
+  - [Arrays and Strings]({{"/assets/pdfs/unit2/arrays_and_strings.pdf" | relative_url }})
 
 - ### Though Questions Overview]
   - Is there ever a situation where it might be better to have 2, 3, or n separate variables instead of having a 2-, 3-, or n-element array?

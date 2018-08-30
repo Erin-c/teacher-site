@@ -19,7 +19,7 @@ We certainly like it when things are organized. Having data assembled in a parti
   - [Bubble Sort (Jackson)](https://www.youtube.com/embed/8Kp-8OGwphY)
 
 - ### Notes
-  - [Bubble Sort](/assets/pdfs/unit3/bubble_sort.pdf)
+  - [Bubble Sort]({{"/assets/pdfs/unit3/bubble_sort.pdf" | relative_url }})
 
 - ### Thought Questions
   - Why is sorting data useful?

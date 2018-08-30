@@ -9,7 +9,7 @@ We've already seen return values in the context of functions, and by now it's ho
   - [Lecture Notes](https://docs.cs50.net/2016/fall/notes/2/week2.html#command-line-arguments)
 
 - ### Notes
-  - [Exit Codes](/assets/pdfs/unit2/exit_codes.pdf)
+  - [Exit Codes]({{"/assets/pdfs/unit2/exit_codes.pdf" | relative_url }})
 
 - ### Thought Questions
   - What is the value of exit codes?

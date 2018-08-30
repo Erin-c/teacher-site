@@ -12,7 +12,7 @@ While all memory is stored as some number of bits, these bits are not all stored
   - Crash Course on [Memory & Storage](https://www.youtube.com/embed/TQCr9RV7twk)
 
 - ### Notes
-  - [Memory](/assets/pdfs/unit0/memory.pdf)
+  - [Memory]({{"/assets/pdfs/unit0/memory.pdf" | relative_url }})
 
 - ### Supplementary Resources
   - While the demonstration of going shopping for some new computers is a little older in this video, you should still go through it yourself, drawing some comparisons by visiting the Apple, Lenovo, Dell, or other computer company's sales page. Here's

@@ -12,7 +12,7 @@ In addition to having operators that perform basic mathematical operations like 
   - [Operators](https://www.youtube.com/embed/f1xZf4iJDWE)
 
 - ### Notes
-  - [Operators](/assets/pdfs/unit1/operators.pdf)
+  - [Operators]({{"/assets/pdfs/unit1/operators.pdf" | relative_url }})
 
 - ### Supplementary Resources
 * Tutorials Point on [C operators](http://www.tutorialspoint.com/cprogramming/c_operators.htm)

@@ -10,7 +10,7 @@ Computer programs can be used to create models and simulations, to test hypothes
   - LeiosOS on the [What is Monte Carlo?](https://www.youtube.com/embed/AyBNnkYrSWY)
 
 - ### Notes
-  - [Models and Simulations](/assets/pdfs/unit3/models_and_simulations.pdf)
+  - [Models and Simulations]({{"/assets/pdfs/unit3/models_and_simulations.pdf" | relative_url }})
 
 - ### Supplementary Resources
   - Check out this site by the University of British Columbia on [real world applications of simulations](http://etec.ctlt.ubc.ca/510wiki/Real-world_Applications_of_Simulations) in various fields. Then take a look at the following interactive simulation by PhET at the University of Colorado Boulder on [Plinko Predictions](https://phet.colorado.edu/sims/plinko-probability/plinko-probability_en.html).

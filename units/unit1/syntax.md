@@ -15,7 +15,7 @@ In this section, we discuss some of the finer points of programming in C, the sy
   - [Lecture Notes](https://docs.cs50.net/2017/fall/notes/1/lecture1.html#compiling)
 
 - ### Notes
-  - [Syntax](/assets/pdfs/unit1/syntax.pdf)
+  - [Syntax]({{"/assets/pdfs/unit1/syntax.pdf" | relative_url }})
 
 - ### Supplementary Resources
   - Tutorials Point on [General C Syntax Overview](http://www.tutorialspoint.com/cprogramming/c_basic_syntax.htm)

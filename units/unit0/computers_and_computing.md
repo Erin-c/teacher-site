@@ -15,7 +15,7 @@ Computers are everywhere, but it's not just desktops and laptops anymore. Now we
 
 
 - ### Notes
-  - [Computers and Computing](/assets/pdfs/unit0/computers_and_computing.pdf)
+  - [Computers and Computing]({{"/assets/pdfs/unit0/computers_and_computing.pdf" | relative_url }})
 
 
 - ### Thought Questions

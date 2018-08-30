@@ -12,7 +12,7 @@ For a few weeks now, we've dabbled in the process of writing simple source code 
   - [Compilers (Rob)](https://www.youtube.com/embed/CSZLNYF4Klo)
 
 - ### Notes
-  - [Compiling](/assets/pdfs/unit2/compiling.pdf)
+  - [Compiling]({{"/assets/pdfs/unit2/compiling.pdf" | relative_url }})
 
 - ### Supplementary Resources
   - Ben Eater on [Comparing C to Machine Language](https://www.youtube.com/embed/yOyaJXpAYZQ)

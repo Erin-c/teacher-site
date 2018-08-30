@@ -13,7 +13,7 @@ After you are familiar with linear search, a faster searching algorithm is the n
   - [Binary Search (Patrick)](https://www.youtube.com/embed/D5SrAga1pno)
   
 - ### Notes
-  - [Binary Search](/assets/pdfs/unit3/binary_search.pdf)
+  - [Binary Search({{"/assets/pdfs/unit3/binary_search.pdf" | relative_url }})
 
 - ### Thought Questions
   - Under which conditions is it more efficient to use binary search versus linear search on a set of data?

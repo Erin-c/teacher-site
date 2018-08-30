@@ -13,7 +13,7 @@ In this section, we'll dive into variables in C. A variable is a storage contain
   - [Variables (Vivla)](https://www.youtube.com/embed/FPL_0lpzBjo)
 
 - ### Notes
-  - [Variables](/assets/pdfs/unit1/variables.pdf)
+  - [Variables]({{"/assets/pdfs/unit1/variables.pdf" | relative_url }})
 
 - ### Thought Questions
   - Why do we need variables?

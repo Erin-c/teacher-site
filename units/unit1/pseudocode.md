@@ -11,7 +11,7 @@ __Important Note__: AP Computer Science Principles is a deliberately language-ag
   - [Lecture Notes](https://docs.cs50.net/2017/fall/notes/0/lecture0.html#algorithms)
 
 - ### Notes
-  - [Pseudocode](/assets/pdfs/unit1/pseudocode.pdf)
+  - [Pseudocode]({{"/assets/pdfs/unit1/pseudocode.pdf" | relative_url }})
 
 - ### Supplementary Resources
   - Meri Engel on [the Programming Process](https://www.youtube.com/embed/OeHyS0YT1og)

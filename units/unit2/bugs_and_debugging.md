@@ -15,7 +15,7 @@ Bugs. Ugh. Nobody likes them but every programmer will surely encounter them, re
 - [Lecture Notes](https://docs.cs50.net/2017/fall/notes/2/lecture2.html#printing-debugging)
 
 - ### Notes
-- [Bugs and Debugging](/assets/pdfs/unit2/bugs_and_debugging.pdf)
+- [Bugs and Debugging]({{"/assets/pdfs/unit2/bugs_and_debugging.pdf" | relative_url }})
 
 - ### Thought Questions
 - `debug50` is noticeably more complex than simply writing printf statements in our code. Why should we bother using it? What advantages and/or disadvantages exist there?
