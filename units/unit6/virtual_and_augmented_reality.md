@@ -10,7 +10,7 @@ Virtual and augmented reality has recently taken the world by storm. Virtual rea
 
 - ### Notes
   - [Virtual and Augmented Reality]({{"/assets/pdfs/unit6/virtual_and_augmented_reality.pdf" | relative_url }})
-  - 
+  
 - ### Supplementary Resources
   - Wareable on [Virtual reality versus augmented reality: Which is the future?](https://www.wareable.com/vr/virtual-reality-vs-augmented-reality-which-is-the-future)
   - If you're a fan of skiing (or just think AR is really cool), check out this video by Vocativ on [AR skiing goggles](https://www.youtube.com/watch?v=phIA0jdVABI).
