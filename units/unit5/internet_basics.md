@@ -27,7 +27,7 @@ In this section, we'll discuss what the Internet is and how information travels 
   - Bill McCabe on [Quick History of the Internet of Things](https://medium.com/@billsoftnet/a-quick-history-of-the-internet-of-things-8ac5789c4654)
   - Blake Snow on [What Would a World Without Internet Look Like?](https://www.theatlantic.com/technology/archive/2016/04/a-world-without-internet/476907/)
   - 
-FrippeMax on [Warriors of the Net](https://www.youtube.com/watch?v=PBWhzz_Gn10)
+FrippeMax on [Warriors of the Net](https://www.youtube.com/embed/PBWhzz_Gn10)
 
 - ### Thought Questions
   - How fundamental is the Internet to your everyday life? Could you live without it? What about on a global scale? To what extent do we rely on the Internet?

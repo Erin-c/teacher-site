@@ -13,12 +13,28 @@
 
         <meta property="og:url" content="http://localhost:4000">
 
-        <link href="/favicon.ico?v=7f34c356a441f8e97a8996a756f24bd3d914b726" rel="icon">
-        <link href="/assets/css/style.css?v=7f34c356a441f8e97a8996a756f24bd3d914b726" rel="stylesheet">
+        <link href="/favicon.ico?v=e6eabdc5983902c80623ccf4611f3d12c82feb11" rel="icon">
+        <link href="/assets/css/style.css?v=e6eabdc5983902c80623ccf4611f3d12c82feb11" rel="stylesheet">
 
         <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js"></script>
+
+        <script>
+
+            // Add anchors on DOMContentLoaded
+            // https://www.bryanbraun.com/anchorjs/#basic-usage
+            document.addEventListener('DOMContentLoaded', function() {
+                anchors.add('main.markdown-body h2');
+                anchors.add('main.markdown-body h3');
+                anchors.add('main.markdown-body h4');
+                anchors.add('main.markdown-body h5');
+                anchors.add('main.markdown-body h6');
+                
+            });
+
+        </script>
 
         <title>Unit 2</title>
 
@@ -71,7 +87,7 @@
 
         </aside>
 
-        <main>
+        <main class="markdown-body">
 
             <h1 id="unit-2">Unit 2</h1>
 
