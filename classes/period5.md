@@ -1,4 +1,4 @@
-# Unit 0
+## Unit 0
 
 * [Computers and Computing]({{"/units/unit0/computers_and_computing" | relative_url }})
 * [How Computers Work]({{"/units/unit0/how_computers_work" | relative_url }})
