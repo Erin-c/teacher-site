@@ -11,6 +11,6 @@
 ***
 
 * [**Units**]({{ "/units" | relative_url }})
+* [Classes]({{ "/classes" | relative_url }})
 * [Syllabus]({{ "/syllabus" | relative_url }})
-* [Discuss](https://cs50.harvard.edu/ap/discuss/)
 * [Tools]({{ "/tools" | relative_url }})
