@@ -1,8 +1,11 @@
-# Unit 0
+# Unit A
 
-* [Computers and Computing]({{"/units/unit0/computers_and_computing" | relative_url }})
-* [How Computers Work]({{"/units/unit0/how_computers_work" | relative_url }})
-* [Binary and ASCII]({{"/units/unit0/binary_and_ascii" | relative_url }})
-* [Logic and Processors]({{"/units/unit0/logic_and_processors" | relative_url }})
-* [Memory]({{"/units/unit0/memory" | relative_url }})
-* [Algorithms]({{"/units/unit0/algorithms" | relative_url }})
+* [Stacks]({{"/units/unitA/stacks" | relative_url }})
+* [Queues]({{"/units/unitA/queues" | relative_url }})
+* [Pointers]({{"/units/unitA/pointers" | relative_url }})
+* [Dynamic Memory]({{"/units/unitA/dynamic_memory" | relative_url }})
+* [Valgrind]({{"/units/unitA/valgrind" | relative_url }})
+* [Trees]({{"/units/unitA/trees" | relative_url }})
+* [Tries]({{"/units/unitA/tries" | relative_url }})
+* [Linked Lists]({{"/units/unitA/linked_lists" | relative_url }})
+* [Hash Tables]({{"/units/unitA/hash_tables" | relative_url }})
