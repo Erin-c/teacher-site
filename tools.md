@@ -1,6 +1,6 @@
 # CS50 Tools
 
-<iframe title="Tools" src="{{'/assets/pdfs/tools.pdf' | relative_url }}" width="838" height="1130" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+<iframe name="tools.pdf" src="{{'/assets/pdfs/tools.pdf' | relative_url }}" title="tools.pdf" width="838" height="1130" frameborder="0" scrolling="auto"></iframe>
 
 ---
 
